@@ -1,2 +1,2 @@
-# RunningLights
-Idk, just made this for the lights test and for the lulz.
+# TestLights
+Just made this for testing.
